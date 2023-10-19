@@ -9,7 +9,7 @@
             <li>Restart your server or refresh from the console. You can use the <code>logout</code> command.</li>
         </ol>
         <h2>Usage</h2>
-        <p>Once the server is up and running, visit the log viewer URL in your web browser. You should now see a beautiful interface for viewing your log files.</p>
+        <p>Command : <code>/logout</code></p>
         <p>Enjoy! If you encounter any issues or have suggestions for improvements, feel free to open an issue or create a pull request.</p>
         <h2>License</h2>
         <p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use, modify, and distribute it as you like.</p>
