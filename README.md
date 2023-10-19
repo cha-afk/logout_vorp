@@ -1,6 +1,6 @@
 <body>
     <div class="log-container">
-        <h1>Vorp Logout</h1>
+        <h1>Logout Vorp</h1>
         <p>Some scripts may require you to disconnect from the server and log back in to see the result, or when you refresh some scripts. Here is a command that will simply log you out and take you to the character screen without disconnecting from the server. <b>ENJOY</b></p>
         <h2>Installation</h2>
         <ol>
