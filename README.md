@@ -1,7 +1,7 @@
 <body>
     <div class="log-container">
-        <h1>Beautiful Log Viewer</h1>
-        <p>This is a simple log viewer for your server. It provides an easy-to-read interface for viewing log files.</p>
+        <h1>Vorp Logout</h1>
+        <p>Some scripts may require you to disconnect from the server and log back in to see the result, or when you refresh some scripts. Here is a command that will simply log you out and take you to the character screen without disconnecting from the server. <b>ENJOY</b></p>
         <h2>Installation</h2>
         <ol>
             <li>Download the log viewer file and place it in your server directory.</li>
