@@ -10,6 +10,7 @@
         </ol>
         <h2>Usage</h2>
         <p>Command : <code>/logout</code></p>
+        <h1>This script for testing or if u're modifying something that requires u to disconnect from the server!</h1>
         <p>Enjoy! If you encounter any issues or have suggestions for improvements, feel free to open an issue or create a pull request.</p>
         <h2>License</h2>
         <p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use, modify, and distribute it as you like.</p>
