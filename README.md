@@ -7,7 +7,7 @@
             <li>Download the log viewer file and place it in your server directory.</li>
             <li>Open your <code>server.cfg</code> file and add the following line at the end: <br><code>ensure log</code></li>
             <li>Restart your server or refresh from the console. You can use the <code>logout</code> command.</li>
-        </ol>
+        </ol> 
         <h2>Usage</h2>
         <p>Command : <code>/logout</code></p>
         <h1>This script for testing or if u're modifying something that requires u to disconnect from the server!</h1>
